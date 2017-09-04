@@ -2,7 +2,7 @@
 // PrintName program
 // This program prints a name in two different formats
 // ******************************************************
-#include "stdafx.h"
+
 #include <iostream> // for cout and endl
 #include <string> // for data type string
 using namespace std;
